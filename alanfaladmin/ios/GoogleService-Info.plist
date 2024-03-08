@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>661474189712-i8rssb22qf5ag4t7bm28avudr7usjb6n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.661474189712-i8rssb22qf5ag4t7bm28avudr7usjb6n</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>661474189712-2edq0dq9umf0df9n0fc5o6f3ndvr1jkl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBZq5boWmW6JQFk9TAEB3fYUwsd77dtn5U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>661474189712</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>tuttech.walid.alanfaladmin</string>
+	<key>PROJECT_ID</key>
+	<string>alanfal-cebf5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>alanfal-cebf5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:661474189712:ios:3a0d206d44e6914f00d315</string>
+	<key>DATABASE_URL</key>
+	<string>https://alanfal-cebf5.firebaseio.com</string>
+</dict>
+</plist>

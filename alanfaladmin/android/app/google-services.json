@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "661474189712",
+    "firebase_url": "https://alanfal-cebf5.firebaseio.com",
+    "project_id": "alanfal-cebf5",
+    "storage_bucket": "alanfal-cebf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661474189712:android:e9833912093744c400d315",
+        "android_client_info": {
+          "package_name": "tuttech.walid.alanfaladmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661474189712-he53j6er1lbipcb1tq77h5o8so0aga7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tuttech.walid.alanfaladmin",
+            "certificate_hash": "4617df27356cec766f63ac8df7c6e45c33061cc0"
+          }
+        },
+        {
+          "client_id": "661474189712-gkb26lsgcq03kquof12iuvrmrrt1i2a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY5rsMX5k3uhceQrF1Y6uJPccxpTNzR5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661474189712-gkb26lsgcq03kquof12iuvrmrrt1i2a2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661474189712-ot71qojpa6m1km4g4866jqhr4s72q227.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tuttech.walid.alanfalproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661474189712:android:5d321675b8a99b5700d315",
+        "android_client_info": {
+          "package_name": "tuttech.walid.alanfalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661474189712-mpdmbs2s8di0sdu8balmauhrqjbeaefn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tuttech.walid.alanfalproject",
+            "certificate_hash": "4617df27356cec766f63ac8df7c6e45c33061cc0"
+          }
+        },
+        {
+          "client_id": "661474189712-gkb26lsgcq03kquof12iuvrmrrt1i2a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY5rsMX5k3uhceQrF1Y6uJPccxpTNzR5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661474189712-gkb26lsgcq03kquof12iuvrmrrt1i2a2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661474189712-ot71qojpa6m1km4g4866jqhr4s72q227.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tuttech.walid.alanfalproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

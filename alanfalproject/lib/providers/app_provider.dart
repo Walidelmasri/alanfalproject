@@ -1,0 +1,27 @@
+import 'package:alanfalproject/db/product.dart';
+import 'package:alanfalproject/models/product.dart';
+import 'package:flutter/material.dart';
+
+class AppProvider with ChangeNotifier {
+  List<Product> _featureProducts = [];
+  ProductsService _productsService = ProductsService();
+
+  AppProvider() {
+    _getFeaturedProducts();
+  }
+
+//  getter
+  List<Product> get featureProducts => _featureProducts;
+
+//  methods
+  void _getFeaturedProducts() async {
+    _featureProducts = await _productsService.getFeaturedProducts();
+    notifyListeners();
+  }
+  bool isLoading = false;
+
+  void changeIsLoading(){
+    isLoading = !isLoading;
+    notifyListeners();
+  }
+}
